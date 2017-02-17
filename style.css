@@ -1,0 +1,23 @@
+*{
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: 300;
+  }
+body{
+  background-color: #f7c8c9;
+  color: white;
+}
+p{
+  font-size: 2em;
+  margin-left: 1em;
+  font-family: 'Poppins', sans-serif;
+}
+.greeting{
+  margin-top: 3em;
+  margin-left: 1em;
+}
+.definitions, .whatIdo{
+  margin-left: 2em;
+}
+.whatIdo{
+  width: 80%;
+}
