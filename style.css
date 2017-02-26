@@ -13,6 +13,9 @@ p{
   margin-top: 3em;
   margin-left: 1em;
 }
+.bold{
+  font-weight: 500;
+}
 
 /* yay */
 *{
@@ -101,7 +104,7 @@ body, html {
 }
 
 .sectionHead{
-  top: 25%;
+  top: 15%;
   width: 85%;
 }
 
@@ -122,8 +125,8 @@ body, html {
   text-decoration: underline;
 }
 .small{
-  font-size: .75em;
-  width: 50%;
+  font-size: .85em;
+  width: 85%;
   margin-left: auto;
   margin-right: auto;
 }
