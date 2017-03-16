@@ -3,6 +3,9 @@ logs
 *.log
 npm-debug.log*
 
+#Anna Notes
+.doc
+
 # Runtime data
 pids
 *.pid
